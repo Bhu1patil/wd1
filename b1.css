@@ -1,0 +1,11 @@
+#d1{
+width: 1300px;
+height:700px;
+color: black;
+background-image :linear-gradient(pink,violet,black);
+}
+.c1{
+font-family:arial;
+font-size:100px;
+border: 2px solid white;											
+}
